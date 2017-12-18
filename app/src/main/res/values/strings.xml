@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Photo Sharing</string>
+
+    <!-- Alibaba KMS Service details-->
+    <!-- Please replace this details with your own-->
+    <!--Public Endpoint-->
+    <string name="Endpoint">oss-us-west-1.aliyuncs.com</string>
+    <!-- Access ID -->
+    <string name="AccessKey">STS.EZm7yLhFwNv2zN4janzNYLc2t</string>
+    <!-- Access key Secret -->
+    <string name="AccessKeySecret">9A6VU8bCk5qnXZsDh9NMVtCJwaKsvdjPbyT9MgvyoAk8</string>
+    <string name="Bucket_Endpoint">photosharing-android.oss-us-west-1.aliyuncs.com</string>
+    <string name="Bucket_Name">photosharing-android</string>
+    <string name="stsToken">CAIS/QF1q6Ft5B2yfSjIpJnYfMP4hZlW+bTZeGiFjmE7dsF1o6aZljz2IHpEf3dvAeEctfU+nmtU6foflqB6T55OSAmcNZIoNHzEBu3lMeT7oMWQweEuuv/MQBquaXPS2MvVfJ+OLrf0ceusbFbpjzJ6xaCAGxypQ12iN+/m6/Ngdc9FHHP7D1x8CcxROxFppeIDKHLVLozNCBPxhXfKB0ca3WgZgGhku6Ok2Z/euFiMzn+Cl7NO/tyoeMT7P5E3bcknDu3YhrImJvrztwdL8AVP+atMi6hJxCzKpNn1ASMKuUXdbbWMo4c0fV4jPfRlR/NewfHwkPx+qjFXZ2A9TKwsGoABp9v2OMLnSjA4PcCbJUbUM446BfRCpokP2qTmtU5CwdDG2kl7VBru0IexX8lx/BqhHNuAbZLLKyV0uB5BKOa6ku9XPwwgoT+XXdbQoQIeewlTVq/0DcGHkgiQjYVXiclG+tt2Gp/bZkC/3NdSVMbZHygK3ZR+g1xkWHqMiGJiKGE=</string>
+
+
+
+</resources>
